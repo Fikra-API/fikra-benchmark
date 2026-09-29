@@ -1,0 +1,532 @@
+[
+ {
+  "task_id": "LCB-V6-010",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-018",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-063",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-064",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-066",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-067",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-068",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-069",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-070",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-071",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-072",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-073",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-074",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-075",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-076",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-077",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-078",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-079",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-080",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-081",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-082",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-083",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-084",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-086",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-087",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-088",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-089",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-090",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-092",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-093",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-094",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-096",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-097",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-flash"
+ },
+ {
+  "task_id": "LCB-V6-097",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-098",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-099",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "LCB-V6-100",
+  "dataset": "LiveCodeBench",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-00214",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-00308",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-00396",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-00957",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-01283",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-01482",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-01488",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-01980",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-03425",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-03519",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-03732",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-03882",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-04086",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-04157",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-04180",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-04258",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-04296",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-04487",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-04578",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-04783",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-04913",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-04916",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-05060",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-05182",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-05456",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-05465",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-05590",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-05637",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-06115",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-06139",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-06201",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-06535",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-06699",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-06714",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-06924",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-07161",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-07192",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-07228",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-07489",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-07733",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-07740",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-07766",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-07871",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-08117",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-08368",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-08565",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-08693",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-08944",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-09016",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-09132",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-09542",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-09556",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-09572",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-09613",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-09773",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-09848",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-09923",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-09944",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-10502",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-10737",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-10802",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-10981",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-11459",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-11566",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-11696",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-11726",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-11882",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-12057",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ },
+ {
+  "task_id": "MMLUP-12169",
+  "dataset": "MMLU-Pro",
+  "model": "fikra-pro-20b"
+ }
+]

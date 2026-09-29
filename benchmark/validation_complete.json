@@ -1,0 +1,11 @@
+{
+  "models": [
+    "fikra-flash",
+    "fikra-pro-20b",
+    "fikra-pro-120b",
+    "fikra-qwen-max"
+  ],
+  "timestamp": "2026-09-28T06:57:06.379061+00:00",
+  "validated_before_production": true,
+  "validation_type": "BFCL smoke test + 20-call cross-benchmark pilot"
+}

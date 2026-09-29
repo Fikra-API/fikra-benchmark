@@ -1,0 +1,73 @@
+{
+  "benchmark_sha256": "bf904af6e4a7f909c92642f2299f1001c7f1aff88894684fd61f2e799df72bfb",
+  "counts": {
+    "BFCL": 50,
+    "FRES": 50,
+    "GPQA-Diamond": 50,
+    "GSM8K": 75,
+    "IFEval": 75,
+    "LiveCodeBench": 100,
+    "MMLU-Pro": 100
+  },
+  "experiment_id": "fikra-phase1-2026-09-26-v1",
+  "freeze_date": "2026-09-26",
+  "fres_sha256": "bde2d83fe362861dd99df64dcd3ef54fa901e9ea729d5d5e459d0a6c791f0e72",
+  "selection_seed": 20260926,
+  "sources": {
+    "BFCL": {
+      "categories": {
+        "multiple": 10,
+        "parallel": 10,
+        "parallel_multiple": 10,
+        "simple_python": 20
+      },
+      "commit": "f7cf735",
+      "count": 50,
+      "repo": "https://github.com/EnlightenedAI/BFCL.git"
+    },
+    "FRES": {
+      "count": 50,
+      "sha256": "bde2d83fe362861dd99df64dcd3ef54fa901e9ea729d5d5e459d0a6c791f0e72",
+      "version": "v1"
+    },
+    "GPQA-Diamond": {
+      "count": 50,
+      "redistribution": "restricted",
+      "repo": "Idavidrein/gpqa",
+      "revision": "83022cefff930aea54f654c0b282e74b9eeda5c6",
+      "selection_seed": 49965231329940,
+      "subset": "diamond"
+    },
+    "GSM8K": {
+      "config": "main",
+      "count": 75,
+      "repo": "openai/gsm8k",
+      "revision": "740312add88f781978c0658806c59bc2815b9866",
+      "selection_seed": 239735996920010,
+      "split": "test"
+    },
+    "IFEval": {
+      "count": 75,
+      "repo": "google/IFEval",
+      "revision": "966cd89545d6b6acfd7638bc708b98261ca58e84",
+      "selection_seed": 145116575070447,
+      "split": "train"
+    },
+    "LiveCodeBench": {
+      "count": 100,
+      "release": "release_v6",
+      "repo": "livecodebench/code_generation_lite",
+      "revision": "d44be6b144381afa49392b1f0eb424a64a4d8a10",
+      "selection_seed": 45508543871613
+    },
+    "MMLU-Pro": {
+      "count": 100,
+      "repo": "TIGER-Lab/MMLU-Pro",
+      "revision": "b189ec765aa7ed75c8acfea42df31fdae71f97be",
+      "selection_seed": 235180104982670,
+      "split": "test"
+    }
+  },
+  "status": "FROZEN",
+  "total_tasks": 500
+}

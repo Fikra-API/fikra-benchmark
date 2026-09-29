@@ -1,0 +1,6 @@
+The results, paper text, figures, tables and FRES set in this repository
+(paper/, results/, benchmark/fres_v1.jsonl) are licensed under the Creative
+Commons Attribution 4.0 International License (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Upstream benchmark datasets keep their own licences; see benchmark/SOURCES.md.

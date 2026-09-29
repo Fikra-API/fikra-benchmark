@@ -1,0 +1,15 @@
+\begin{table}[t]
+\centering
+\caption{Median execution measurements from successful calls. These measurements describe the observed Fikra API execution conditions of this experiment and are not provider-independent intrinsic model latencies.}
+\label{tab:latency}
+\begin{tabular}{lrrrr}
+\toprule
+Model & $n$ & TTFT (ms) & Latency (ms) & Output tokens \\
+\midrule
+Fikra Flash & 444 & 1967.4 & 3419.6 & 366.5 \\
+Fikra Pro 20B & 247 & 880.7 & 1602.2 & 139.0 \\
+Fikra Pro 120B & 452 & 2010.7 & 3297.9 & 410.0 \\
+Fikra Qwen Max & 500 & 13289.5 & 16065.4 & 529.5 \\
+\bottomrule
+\end{tabular}
+\end{table}

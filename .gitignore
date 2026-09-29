@@ -1,0 +1,14 @@
+.env
+*.key
+restricted/
+benchmark_500.csv
+benchmark_500.jsonl
+__pycache__/
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+paper/main.pdf
+.ipynb_checkpoints/

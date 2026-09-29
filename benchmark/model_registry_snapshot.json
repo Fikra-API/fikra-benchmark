@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "id": "fikra-flash",
+      "object": "model",
+      "owned_by": "fikra",
+      "pricing": {
+        "input": 0.5,
+        "output": 0.5,
+        "unit": "USD_PER_1M_TOKENS"
+      }
+    },
+    {
+      "id": "fikra-fast-8b",
+      "object": "model",
+      "owned_by": "fikra",
+      "pricing": {
+        "input": 0.5,
+        "output": 0.5,
+        "unit": "USD_PER_1M_TOKENS"
+      }
+    },
+    {
+      "id": "fikra-pro-20b",
+      "object": "model",
+      "owned_by": "fikra",
+      "pricing": {
+        "input": 2.0,
+        "output": 2.0,
+        "unit": "USD_PER_1M_TOKENS"
+      }
+    },
+    {
+      "id": "fikra-pro-120b",
+      "object": "model",
+      "owned_by": "fikra",
+      "pricing": {
+        "input": 3.0,
+        "output": 3.0,
+        "unit": "USD_PER_1M_TOKENS"
+      }
+    },
+    {
+      "id": "fikra-qwen-max",
+      "object": "model",
+      "owned_by": "fikra",
+      "pricing": {
+        "input": 5.0,
+        "output": 5.0,
+        "unit": "USD_PER_1M_TOKENS"
+      }
+    },
+    {
+      "id": "fikra-auto",
+      "object": "model",
+      "owned_by": "fikra",
+      "pricing": {
+        "input": 2.0,
+        "output": 2.0,
+        "unit": "USD_PER_1M_TOKENS"
+      }
+    },
+    {
+      "id": "fikra-auto-pro",
+      "object": "model",
+      "owned_by": "fikra",
+      "pricing": {
+        "input": 5.0,
+        "output": 5.0,
+        "unit": "USD_PER_1M_TOKENS"
+      }
+    }
+  ],
+  "object": "list"
+}

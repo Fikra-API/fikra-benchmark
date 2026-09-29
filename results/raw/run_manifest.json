@@ -1,0 +1,17 @@
+{
+  "benchmark_sha256": "bf904af6e4a7f909c92642f2299f1001c7f1aff88894684fd61f2e799df72bfb",
+  "completed_at": "2026-09-28T12:44:27.075155+00:00",
+  "experiment_id": "fikra-phase1-2026-09-26-v1",
+  "missing_evaluations": 106,
+  "models": [
+    "fikra-flash",
+    "fikra-pro-20b",
+    "fikra-pro-120b",
+    "fikra-qwen-max"
+  ],
+  "results_file": "fikra-benchmark-phase1-2026-09-26-4model_results_partial_1894.jsonl",
+  "run_id": "fikra-benchmark-phase1-2026-09-26-4model",
+  "status": "PARTIAL",
+  "successful_evaluations": 1894,
+  "tasks_complete_for_all_models": 395
+}
