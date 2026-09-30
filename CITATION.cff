@@ -1,12 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
-title: "Fikra Benchmark Phase 1: Comparative Evaluation of Four LLM Configurations Across Reasoning, Instruction Following, Mathematics, and Tool Use"
-type: software
-version: 1.0.0
-date-released: 2026-09-29
+message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Miano
-    given-names: James
-license: MIT
-doi: 10.5281/zenodo.23047091
-repository-code: "https://github.com/Fikra-API/fikra-benchmark"
+- family-names: "Miano"
+  given-names: "James"
+  orcid: "https://orcid.org/0009-0003-4647-7541"
+title: "fikra-benchmark"
+version: 1.0.0
+doi: 10.5281/zenodo.23047091 
+date-released: 2026-09-30
+url: "https://github.com/Fikra-API/fikra-benchmark"
