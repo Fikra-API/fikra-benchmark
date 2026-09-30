@@ -1,6 +1,6 @@
 \begin{table}[t]
 \centering
-\caption{Observed scores on the completed scored benchmark components. Percentages are calculated over successful evaluations for the corresponding model and dataset. Pro 20B's MMLU-Pro result is based on 9/31 successful evaluations and is therefore not comparable to a complete 100-task run.}
+\caption{Observed scores on the completed scored benchmark components. Percentages are calculated over successful evaluations for the corresponding model and dataset. Pro 20B's MMLU-Pro result is based on 21/31 successful evaluations and is therefore not comparable to a complete 100-task run.}
 \label{tab:results}
 \begin{tabular}{lrrrr}
 \toprule
@@ -8,12 +8,12 @@ Dataset & Flash & Pro 20B & Pro 120B & Qwen Max \\
 \midrule
 GPQA-Diamond & 48.00 & 46.00 & 66.00 & 88.00 \\
 GSM8K & 85.33 & 84.00 & 84.00 & 94.67 \\
-MMLU-Pro & 33.00 & 29.03$^{\dagger}$ & 32.00 & 37.00 \\
+MMLU-Pro & 77.00 & 67.74$^{\dagger}$ & 82.00 & 90.00 \\
 IFEval (strict) & 68.00 & 76.00 & 72.00 & 86.67 \\
 IFEval (loose) & 69.33 & 78.67 & 76.00 & 88.00 \\
 BFCL & 54.00 & 86.00 & 58.00 & 82.00 \\
 \bottomrule
 \end{tabular}
 \\[-2pt]
-{\footnotesize $^{\dagger}$ 9/31 successful Pro 20B evaluations. LiveCodeBench and FRES were excluded from final scored analysis.}
+{\footnotesize $^{\dagger}$ 21/31 successful Pro 20B evaluations. LiveCodeBench and FRES were excluded from final scored analysis.}
 \end{table}

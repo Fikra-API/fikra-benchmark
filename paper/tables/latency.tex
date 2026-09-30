@@ -1,15 +1,15 @@
 \begin{table}[t]
 \centering
-\caption{Median execution measurements from successful calls. These measurements describe the observed Fikra API execution conditions of this experiment and are not provider-independent intrinsic model latencies.}
+\caption{Median execution measurements over all successful calls (final attempt of each model--task pair). Time to first token (TTFT) was recorded for a subset of calls. These measurements describe the observed Fikra API execution conditions of this experiment and are not provider-independent intrinsic model latencies.}
 \label{tab:latency}
-\begin{tabular}{lrrrr}
+\begin{tabular}{lrrrrr}
 \toprule
-Model & $n$ & TTFT (ms) & Latency (ms) & Output tokens \\
+Model & $n$ & TTFT $n$ & TTFT (ms) & Latency (ms) & Output tokens \\
 \midrule
-Fikra Flash & 444 & 1967.4 & 3419.6 & 366.5 \\
-Fikra Pro 20B & 247 & 880.7 & 1602.2 & 139.0 \\
-Fikra Pro 120B & 452 & 2010.7 & 3297.9 & 410.0 \\
-Fikra Qwen Max & 500 & 13289.5 & 16065.4 & 529.5 \\
+Fikra Flash & 499 & 453 & 2095.3 & 3734.3 & 401.0 \\
+Fikra Pro 20B & 395 & 385 & 1050.8 & 2703.9 & 240.0 \\
+Fikra Pro 120B & 500 & 492 & 2242.7 & 3711.2 & 421.0 \\
+Fikra Qwen Max & 500 & 500 & 13289.5 & 16065.4 & 529.5 \\
 \bottomrule
 \end{tabular}
 \end{table}
