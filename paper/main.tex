@@ -10,7 +10,7 @@
 \usepackage{enumitem}
 \usepackage{caption}
 
-\hypersetup{colorlinks=true,linkcolor=black,citecolor=black,urlcolor=blue}
+\hypersetup{colorlinks=true,linkcolor=black,citecolor=black,urlcolor=blue,pdftitle={Fikra Benchmark Phase 1: Comparative Evaluation of Four LLM Configurations Across Reasoning, Instruction Following, Mathematics, and Tool Use},pdfauthor={James Miano}}
 \graphicspath{{figures/}}
 
 \title{Fikra Benchmark Phase 1: Comparative Evaluation of Four LLM Configurations Across Reasoning, Instruction Following, Mathematics, and Tool Use}
@@ -183,10 +183,9 @@ Finally, the study does not define an authoritative aggregate score. Such a scor
 \section{Reproducibility and Research Artifacts}
 The research package contains the frozen benchmark artifact, experiment manifest, raw result files, notebook used for the production run, dataset revision metadata, evaluator diagnostics, scoring record, research claims, and reproducibility notes. The benchmark hash is recorded above and the run is identified as \texttt{fikra-benchmark-phase1-2026-09-26-4model}; the experiment identifier is \texttt{fikra-phase1-2026-09-26-v1}.
 
-Restricted benchmark content and credentials are not included in the arXiv manuscript source. The public paper source is deliberately smaller than the complete research archive because arXiv source files are themselves publicly downloadable. This separation keeps the manuscript submission focused on the files required to compile the paper while retaining the larger evidence archive separately.
+Restricted benchmark content and credentials are not included in the manuscript source or the public repository. The public paper source is deliberately smaller than the complete research archive because posted manuscript source files are themselves publicly downloadable. This separation keeps the manuscript focused on the files required to compile the paper; the larger evidence archive is provided in the repository.
 
-% TODO: add public repository URL here before submission.
-The study was conducted by the author, who operates the Fikra API. Researchers who can reliably reproduce the excluded LiveCodeBench or FRES evaluations are invited to provide an environment specification, scoring implementation, or independent reproduction rather than inferred scores.
+Code, benchmark metadata, and raw results are publicly available at \url{https://github.com/Fikra-API/fikra-benchmark} and archived on Zenodo (\url{https://doi.org/10.5281/zenodo.23047091}). The study was conducted by the author, who operates the Fikra API. Researchers who can reliably reproduce the excluded LiveCodeBench or FRES evaluations are invited to provide an environment specification, scoring implementation, or independent reproduction rather than inferred scores.
 
 \section*{Disclosure}
 The author operates the Fikra API through which all evaluated configurations were served, and the FRES set is Fikra-owned. Readers should weigh the results accordingly; the frozen benchmark hash and raw records are provided to allow independent verification.

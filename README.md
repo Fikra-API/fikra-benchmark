@@ -1,5 +1,7 @@
 # Fikra Benchmark, Phase 1
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23047091.svg)](https://doi.org/10.5281/zenodo.23047091)
+
 Comparative evaluation of four language-model configurations served through the Fikra API (fikra-flash, fikra-pro-20b, fikra-pro-120b, fikra-qwen-max) on a frozen 500-task suite drawn from MMLU-Pro, GPQA-Diamond, GSM8K, IFEval, LiveCodeBench, BFCL and FRES.
 
 - Run: `fikra-benchmark-phase1-2026-09-26-4model` (experiment `fikra-phase1-2026-09-26-v1`)
@@ -28,4 +30,4 @@ GPQA-Diamond text is not redistributed. GPQA output text in `results/raw/` is re
 Code: MIT (`LICENSE`). Results, paper and FRES: CC BY 4.0 (`LICENSE-DATA`). Upstream datasets keep their own licences (`benchmark/SOURCES.md`).
 
 ## Citation
-See `CITATION.cff`. A DOI badge will be added after the first Zenodo release.
+See `CITATION.cff`. Archived on Zenodo: https://doi.org/10.5281/zenodo.23047091
