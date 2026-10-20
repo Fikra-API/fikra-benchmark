@@ -1,33 +1,26 @@
-# Fikra Benchmark, Phase 1
+# fikra-benchmark
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23047091.svg)](https://doi.org/10.5281/zenodo.23047091)
+Nightly probes against the Fikra API DeepSeek lanes. One tiny Chat Completions call per lane, once a night: status plus latency, appended to a CSV history.
 
-Comparative evaluation of four language-model configurations served through the Fikra API (fikra-flash, fikra-pro-20b, fikra-pro-120b, fikra-qwen-max) on a frozen 500-task suite drawn from MMLU-Pro, GPQA-Diamond, GSM8K, IFEval, LiveCodeBench, BFCL and FRES.
+## Lanes
 
-- Run: `fikra-benchmark-phase1-2026-09-26-4model` (experiment `fikra-phase1-2026-09-26-v1`)
-- Benchmark SHA-256: `bf904af6e4a7f909c92642f2299f1001c7f1aff88894684fd61f2e799df72bfb`
-- Coverage: 1,894 of 2,000 planned evaluations succeeded; 395 tasks have results for all four configurations (counted over all 500 tasks, including unscored components)
-- Scored components: GPQA-Diamond, GSM8K, MMLU-Pro, IFEval, BFCL. LiveCodeBench and FRES are excluded from scoring.
-- Paper: see `paper/` (arXiv link to be added)
+- deepseek-v4.1-flash
+- deepseek-v4.1-flash-1017
+- deepseek-v4-flash-0731
+- glm-5.3-flash
+- kimi-k3
 
-**Disclosure:** the repository owner operates the Fikra API, and FRES is Fikra-owned.
+## Probe budget
 
-## Layout
-| Path | Contents |
-|---|---|
-| `paper/` | LaTeX source, figures, tables |
-| `benchmark/` | Frozen manifest, prompt-hash manifest, FRES, model registry snapshot, `SOURCES.md` |
-| `results/raw/` | Successful generations (1,894), full attempt log (2,321), run manifest, missing pairs |
-| `results/scored/` | Per-item scores and summary tables |
-| `notebooks/` | Original Colab notebook (benchmark build and generation run) |
-| `evaluation/` | Scoring and analysis code |
-| `docs/` | `REPRODUCING.md`, `KNOWN_ISSUES.md` |
+Sixteen output tokens per call, five lanes, once daily. Pennies per month on Fikra's per-token pricing ($0.045 per 1M input on `deepseek-v4.1-flash`, prices verified 2026-10-19 at the [pricing page](https://fikraapi.co.ke/pricing)).
 
-## GPQA
-GPQA-Diamond text is not redistributed. GPQA output text in `results/raw/` is replaced by a hash and character count. To reproduce, obtain GPQA access yourself and follow `docs/REPRODUCING.md`.
+## Files
 
-## Licences
-Code: MIT (`LICENSE`). Results, paper and FRES: CC BY 4.0 (`LICENSE-DATA`). Upstream datasets keep their own licences (`benchmark/SOURCES.md`).
+- `lanes.json`: latest run
+- `history.csv`: append-only, one row per lane per night
+- README table rewritten by the workflow after each run
 
-## Citation
-See `CITATION.cff`. Archived on Zenodo: https://doi.org/10.5281/zenodo.23047091
+## Set up
+
+1. Workflow runs nightly at 02:17 UTC (manually dispatchable).
+2. Requires the `FIKRA_API_KEY` secret on this repo (create a key at https://fikraapi.co.ke, M-Pesa or card).
