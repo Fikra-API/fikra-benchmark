@@ -12,3 +12,5 @@ __pycache__/
 *.synctex.gz
 paper/main.pdf
 .ipynb_checkpoints/
+phase2/work/
+.venv/
