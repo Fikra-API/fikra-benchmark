@@ -5,7 +5,7 @@
 
 **Live results, charts and method: [fikraapi.co.ke/benchmark](https://fikraapi.co.ke/benchmark)**
 
-## Phase 2 (running, November 2026)
+## Phase 2 (published 25 November 2026)
 
 Same frozen 500-task suite, re-run on the models Fikra API serves today: `deepseek-v4.1-flash`, `qwen3.8-max`, `qwen3.8-27b`, `qwen4-max`, `mimo-v2.6-pro`.
 
@@ -13,6 +13,8 @@ Same frozen 500-task suite, re-run on the models Fikra API serves today: `deepse
 - Output cap raised from 4,096 to 32,768 tokens, because Phase 1's `KNOWN_ISSUES.md` names the cap as a likely cause of scores below published values.
 - Everything else is unchanged: temperature 0, top-p 1, streaming, resumable, one success per task-model pair.
 - Scores will be shown next to each lab's published numbers, with a source for every reference value.
+- Results: `results/phase2/scores.json` (per model and benchmark) and `results/phase2/items.csv` (per item); live page with lab-published reference scores: https://fikraapi.co.ke/benchmark
+- Scoring: `phase2/score_phase2.py` reproduces Phase 1's BFCL and MMLU-Pro exactly and IFEval/GSM8K within 1-3 items; BFCL names use the official '.'->'_' conversion for OpenAI-format endpoints (`phase2/rerun_bfcl_sanitized.py`); IFEval is seeded per task so scores are reproducible.
 - Runner: `phase2/run_phase2.py` executes the original notebook cells with only the run configuration changed, so the protocol stays auditable.
 
 ```sh

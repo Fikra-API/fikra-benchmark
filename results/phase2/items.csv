@@ -1,0 +1,1751 @@
+task_id,model,dataset,correct,generation_succeeded
+BFCL-MULTIPLE-multiple_101,deepseek-v4.1-flash,BFCL,1,1
+BFCL-MULTIPLE-multiple_101,mimo-v2.6-pro,BFCL,1,1
+BFCL-MULTIPLE-multiple_101,qwen3.8-27b,BFCL,1,1
+BFCL-MULTIPLE-multiple_101,qwen3.8-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_101,qwen4-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_11,deepseek-v4.1-flash,BFCL,1,1
+BFCL-MULTIPLE-multiple_11,mimo-v2.6-pro,BFCL,1,1
+BFCL-MULTIPLE-multiple_11,qwen3.8-27b,BFCL,1,1
+BFCL-MULTIPLE-multiple_11,qwen3.8-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_11,qwen4-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_111,deepseek-v4.1-flash,BFCL,1,1
+BFCL-MULTIPLE-multiple_111,mimo-v2.6-pro,BFCL,1,1
+BFCL-MULTIPLE-multiple_111,qwen3.8-27b,BFCL,1,1
+BFCL-MULTIPLE-multiple_111,qwen3.8-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_111,qwen4-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_114,deepseek-v4.1-flash,BFCL,1,1
+BFCL-MULTIPLE-multiple_114,mimo-v2.6-pro,BFCL,1,1
+BFCL-MULTIPLE-multiple_114,qwen3.8-27b,BFCL,0,1
+BFCL-MULTIPLE-multiple_114,qwen3.8-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_114,qwen4-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_161,deepseek-v4.1-flash,BFCL,1,1
+BFCL-MULTIPLE-multiple_161,mimo-v2.6-pro,BFCL,1,1
+BFCL-MULTIPLE-multiple_161,qwen3.8-27b,BFCL,1,1
+BFCL-MULTIPLE-multiple_161,qwen3.8-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_161,qwen4-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_164,deepseek-v4.1-flash,BFCL,1,1
+BFCL-MULTIPLE-multiple_164,mimo-v2.6-pro,BFCL,1,1
+BFCL-MULTIPLE-multiple_164,qwen3.8-27b,BFCL,1,1
+BFCL-MULTIPLE-multiple_164,qwen3.8-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_164,qwen4-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_181,deepseek-v4.1-flash,BFCL,1,1
+BFCL-MULTIPLE-multiple_181,mimo-v2.6-pro,BFCL,1,1
+BFCL-MULTIPLE-multiple_181,qwen3.8-27b,BFCL,0,1
+BFCL-MULTIPLE-multiple_181,qwen3.8-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_181,qwen4-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_182,deepseek-v4.1-flash,BFCL,1,1
+BFCL-MULTIPLE-multiple_182,mimo-v2.6-pro,BFCL,1,1
+BFCL-MULTIPLE-multiple_182,qwen3.8-27b,BFCL,1,1
+BFCL-MULTIPLE-multiple_182,qwen3.8-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_182,qwen4-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_43,deepseek-v4.1-flash,BFCL,1,1
+BFCL-MULTIPLE-multiple_43,mimo-v2.6-pro,BFCL,1,1
+BFCL-MULTIPLE-multiple_43,qwen3.8-27b,BFCL,1,1
+BFCL-MULTIPLE-multiple_43,qwen3.8-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_43,qwen4-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_45,deepseek-v4.1-flash,BFCL,1,1
+BFCL-MULTIPLE-multiple_45,mimo-v2.6-pro,BFCL,1,1
+BFCL-MULTIPLE-multiple_45,qwen3.8-27b,BFCL,0,1
+BFCL-MULTIPLE-multiple_45,qwen3.8-max,BFCL,1,1
+BFCL-MULTIPLE-multiple_45,qwen4-max,BFCL,1,1
+BFCL-PARALLEL-parallel_128,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL-parallel_128,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL-parallel_128,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL-parallel_128,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL-parallel_128,qwen4-max,BFCL,1,1
+BFCL-PARALLEL-parallel_139,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL-parallel_139,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL-parallel_139,qwen3.8-27b,BFCL,0,1
+BFCL-PARALLEL-parallel_139,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL-parallel_139,qwen4-max,BFCL,1,1
+BFCL-PARALLEL-parallel_168,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL-parallel_168,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL-parallel_168,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL-parallel_168,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL-parallel_168,qwen4-max,BFCL,1,1
+BFCL-PARALLEL-parallel_173,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL-parallel_173,mimo-v2.6-pro,BFCL,0,1
+BFCL-PARALLEL-parallel_173,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL-parallel_173,qwen3.8-max,BFCL,0,1
+BFCL-PARALLEL-parallel_173,qwen4-max,BFCL,1,1
+BFCL-PARALLEL-parallel_192,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL-parallel_192,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL-parallel_192,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL-parallel_192,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL-parallel_192,qwen4-max,BFCL,1,1
+BFCL-PARALLEL-parallel_27,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL-parallel_27,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL-parallel_27,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL-parallel_27,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL-parallel_27,qwen4-max,BFCL,1,1
+BFCL-PARALLEL-parallel_44,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL-parallel_44,mimo-v2.6-pro,BFCL,0,1
+BFCL-PARALLEL-parallel_44,qwen3.8-27b,BFCL,0,1
+BFCL-PARALLEL-parallel_44,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL-parallel_44,qwen4-max,BFCL,1,1
+BFCL-PARALLEL-parallel_55,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL-parallel_55,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL-parallel_55,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL-parallel_55,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL-parallel_55,qwen4-max,BFCL,1,1
+BFCL-PARALLEL-parallel_73,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL-parallel_73,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL-parallel_73,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL-parallel_73,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL-parallel_73,qwen4-max,BFCL,1,1
+BFCL-PARALLEL-parallel_9,deepseek-v4.1-flash,BFCL,0,1
+BFCL-PARALLEL-parallel_9,mimo-v2.6-pro,BFCL,0,1
+BFCL-PARALLEL-parallel_9,qwen3.8-27b,BFCL,0,1
+BFCL-PARALLEL-parallel_9,qwen3.8-max,BFCL,0,1
+BFCL-PARALLEL-parallel_9,qwen4-max,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_137,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_137,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_137,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_137,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_137,qwen4-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_158,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_158,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_158,qwen3.8-27b,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_158,qwen3.8-max,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_158,qwen4-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_163,deepseek-v4.1-flash,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_163,mimo-v2.6-pro,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_163,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_163,qwen3.8-max,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_163,qwen4-max,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_165,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_165,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_165,qwen3.8-27b,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_165,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_165,qwen4-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_193,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_193,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_193,qwen3.8-27b,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_193,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_193,qwen4-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_32,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_32,mimo-v2.6-pro,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_32,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_32,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_32,qwen4-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_67,deepseek-v4.1-flash,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_67,mimo-v2.6-pro,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_67,qwen3.8-27b,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_67,qwen3.8-max,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_67,qwen4-max,BFCL,0,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_74,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_74,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_74,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_74,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_74,qwen4-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_9,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_9,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_9,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_9,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_9,qwen4-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_90,deepseek-v4.1-flash,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_90,mimo-v2.6-pro,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_90,qwen3.8-27b,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_90,qwen3.8-max,BFCL,1,1
+BFCL-PARALLEL_MULTIPLE-parallel_multiple_90,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_110,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_110,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_110,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_110,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_110,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_123,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_123,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_123,qwen3.8-27b,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_123,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_123,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_13,deepseek-v4.1-flash,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_13,mimo-v2.6-pro,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_13,qwen3.8-27b,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_13,qwen3.8-max,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_13,qwen4-max,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_142,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_142,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_142,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_142,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_142,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_157,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_157,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_157,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_157,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_157,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_181,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_181,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_181,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_181,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_181,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_194,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_194,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_194,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_194,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_194,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_196,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_196,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_196,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_196,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_196,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_253,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_253,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_253,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_253,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_253,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_296,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_296,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_296,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_296,qwen3.8-max,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_296,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_306,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_306,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_306,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_306,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_306,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_307,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_307,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_307,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_307,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_307,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_313,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_313,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_313,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_313,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_313,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_350,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_350,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_350,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_350,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_350,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_353,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_353,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_353,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_353,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_353,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_379,deepseek-v4.1-flash,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_379,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_379,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_379,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_379,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_44,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_44,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_44,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_44,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_44,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_46,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_46,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_46,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_46,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_46,qwen4-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_51,deepseek-v4.1-flash,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_51,mimo-v2.6-pro,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_51,qwen3.8-27b,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_51,qwen3.8-max,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_51,qwen4-max,BFCL,0,1
+BFCL-SIMPLE_PYTHON-simple_python_97,deepseek-v4.1-flash,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_97,mimo-v2.6-pro,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_97,qwen3.8-27b,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_97,qwen3.8-max,BFCL,1,1
+BFCL-SIMPLE_PYTHON-simple_python_97,qwen4-max,BFCL,1,1
+GPQA-D-001,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-001,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-001,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-001,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-001,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-002,deepseek-v4.1-flash,GPQA-Diamond,0,1
+GPQA-D-002,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-002,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-002,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-002,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-003,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-003,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-003,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-003,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-003,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-004,deepseek-v4.1-flash,GPQA-Diamond,0,1
+GPQA-D-004,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-004,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-004,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-004,qwen4-max,GPQA-Diamond,0,1
+GPQA-D-005,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-005,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-005,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-005,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-005,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-006,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-006,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-006,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-006,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-006,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-007,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-007,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-007,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-007,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-007,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-008,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-008,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-008,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-008,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-008,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-009,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-009,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-009,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-009,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-009,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-010,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-010,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-010,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-010,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-010,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-011,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-011,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-011,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-011,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-011,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-012,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-012,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-012,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-012,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-012,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-013,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-013,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-013,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-013,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-013,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-014,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-014,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-014,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-014,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-014,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-015,deepseek-v4.1-flash,GPQA-Diamond,0,1
+GPQA-D-015,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-015,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-015,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-015,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-016,deepseek-v4.1-flash,GPQA-Diamond,0,1
+GPQA-D-016,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-016,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-016,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-016,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-017,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-017,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-017,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-017,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-017,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-018,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-018,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-018,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-018,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-018,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-019,deepseek-v4.1-flash,GPQA-Diamond,0,1
+GPQA-D-019,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-019,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-019,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-019,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-020,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-020,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-020,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-020,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-020,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-021,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-021,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-021,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-021,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-021,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-022,deepseek-v4.1-flash,GPQA-Diamond,0,1
+GPQA-D-022,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-022,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-022,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-022,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-023,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-023,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-023,qwen3.8-27b,GPQA-Diamond,0,0
+GPQA-D-023,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-023,qwen4-max,GPQA-Diamond,0,0
+GPQA-D-024,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-024,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-024,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-024,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-024,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-025,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-025,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-025,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-025,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-025,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-026,deepseek-v4.1-flash,GPQA-Diamond,0,1
+GPQA-D-026,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-026,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-026,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-026,qwen4-max,GPQA-Diamond,0,1
+GPQA-D-027,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-027,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-027,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-027,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-027,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-028,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-028,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-028,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-028,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-028,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-029,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-029,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-029,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-029,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-029,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-030,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-030,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-030,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-030,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-030,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-031,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-031,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-031,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-031,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-031,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-032,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-032,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-032,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-032,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-032,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-033,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-033,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-033,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-033,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-033,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-034,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-034,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-034,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-034,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-034,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-035,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-035,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-035,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-035,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-035,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-036,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-036,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-036,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-036,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-036,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-037,deepseek-v4.1-flash,GPQA-Diamond,0,1
+GPQA-D-037,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-037,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-037,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-037,qwen4-max,GPQA-Diamond,0,1
+GPQA-D-038,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-038,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-038,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-038,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-038,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-039,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-039,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-039,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-039,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-039,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-040,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-040,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-040,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-040,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-040,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-041,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-041,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-041,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-041,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-041,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-042,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-042,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-042,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-042,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-042,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-043,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-043,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-043,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-043,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-043,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-044,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-044,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-044,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-044,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-044,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-045,deepseek-v4.1-flash,GPQA-Diamond,0,1
+GPQA-D-045,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-045,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-045,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-045,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-046,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-046,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-046,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-046,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-046,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-047,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-047,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-047,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-047,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-047,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-048,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-048,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-048,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-048,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-048,qwen4-max,GPQA-Diamond,1,1
+GPQA-D-049,deepseek-v4.1-flash,GPQA-Diamond,0,1
+GPQA-D-049,mimo-v2.6-pro,GPQA-Diamond,0,1
+GPQA-D-049,qwen3.8-27b,GPQA-Diamond,0,1
+GPQA-D-049,qwen3.8-max,GPQA-Diamond,0,1
+GPQA-D-049,qwen4-max,GPQA-Diamond,0,1
+GPQA-D-050,deepseek-v4.1-flash,GPQA-Diamond,1,1
+GPQA-D-050,mimo-v2.6-pro,GPQA-Diamond,1,1
+GPQA-D-050,qwen3.8-27b,GPQA-Diamond,1,1
+GPQA-D-050,qwen3.8-max,GPQA-Diamond,1,1
+GPQA-D-050,qwen4-max,GPQA-Diamond,1,1
+GSM8K-001,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-001,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-001,qwen3.8-27b,GSM8K,1,1
+GSM8K-001,qwen3.8-max,GSM8K,1,1
+GSM8K-001,qwen4-max,GSM8K,1,1
+GSM8K-002,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-002,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-002,qwen3.8-27b,GSM8K,1,1
+GSM8K-002,qwen3.8-max,GSM8K,1,1
+GSM8K-002,qwen4-max,GSM8K,1,1
+GSM8K-003,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-003,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-003,qwen3.8-27b,GSM8K,1,1
+GSM8K-003,qwen3.8-max,GSM8K,1,1
+GSM8K-003,qwen4-max,GSM8K,1,1
+GSM8K-004,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-004,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-004,qwen3.8-27b,GSM8K,1,1
+GSM8K-004,qwen3.8-max,GSM8K,1,1
+GSM8K-004,qwen4-max,GSM8K,1,1
+GSM8K-005,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-005,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-005,qwen3.8-27b,GSM8K,1,1
+GSM8K-005,qwen3.8-max,GSM8K,1,1
+GSM8K-005,qwen4-max,GSM8K,1,1
+GSM8K-006,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-006,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-006,qwen3.8-27b,GSM8K,1,1
+GSM8K-006,qwen3.8-max,GSM8K,1,1
+GSM8K-006,qwen4-max,GSM8K,0,1
+GSM8K-007,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-007,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-007,qwen3.8-27b,GSM8K,0,1
+GSM8K-007,qwen3.8-max,GSM8K,0,1
+GSM8K-007,qwen4-max,GSM8K,1,1
+GSM8K-008,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-008,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-008,qwen3.8-27b,GSM8K,1,1
+GSM8K-008,qwen3.8-max,GSM8K,1,1
+GSM8K-008,qwen4-max,GSM8K,1,1
+GSM8K-009,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-009,mimo-v2.6-pro,GSM8K,0,1
+GSM8K-009,qwen3.8-27b,GSM8K,0,1
+GSM8K-009,qwen3.8-max,GSM8K,0,1
+GSM8K-009,qwen4-max,GSM8K,1,1
+GSM8K-010,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-010,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-010,qwen3.8-27b,GSM8K,1,1
+GSM8K-010,qwen3.8-max,GSM8K,1,1
+GSM8K-010,qwen4-max,GSM8K,1,1
+GSM8K-011,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-011,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-011,qwen3.8-27b,GSM8K,1,1
+GSM8K-011,qwen3.8-max,GSM8K,1,1
+GSM8K-011,qwen4-max,GSM8K,1,1
+GSM8K-012,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-012,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-012,qwen3.8-27b,GSM8K,1,1
+GSM8K-012,qwen3.8-max,GSM8K,1,1
+GSM8K-012,qwen4-max,GSM8K,1,1
+GSM8K-013,deepseek-v4.1-flash,GSM8K,0,1
+GSM8K-013,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-013,qwen3.8-27b,GSM8K,1,1
+GSM8K-013,qwen3.8-max,GSM8K,1,1
+GSM8K-013,qwen4-max,GSM8K,1,1
+GSM8K-014,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-014,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-014,qwen3.8-27b,GSM8K,1,1
+GSM8K-014,qwen3.8-max,GSM8K,1,1
+GSM8K-014,qwen4-max,GSM8K,1,1
+GSM8K-015,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-015,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-015,qwen3.8-27b,GSM8K,1,1
+GSM8K-015,qwen3.8-max,GSM8K,1,1
+GSM8K-015,qwen4-max,GSM8K,1,1
+GSM8K-016,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-016,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-016,qwen3.8-27b,GSM8K,1,1
+GSM8K-016,qwen3.8-max,GSM8K,1,1
+GSM8K-016,qwen4-max,GSM8K,1,1
+GSM8K-017,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-017,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-017,qwen3.8-27b,GSM8K,1,1
+GSM8K-017,qwen3.8-max,GSM8K,1,1
+GSM8K-017,qwen4-max,GSM8K,0,1
+GSM8K-018,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-018,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-018,qwen3.8-27b,GSM8K,1,1
+GSM8K-018,qwen3.8-max,GSM8K,1,1
+GSM8K-018,qwen4-max,GSM8K,1,1
+GSM8K-019,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-019,mimo-v2.6-pro,GSM8K,0,1
+GSM8K-019,qwen3.8-27b,GSM8K,1,1
+GSM8K-019,qwen3.8-max,GSM8K,0,1
+GSM8K-019,qwen4-max,GSM8K,0,1
+GSM8K-020,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-020,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-020,qwen3.8-27b,GSM8K,1,1
+GSM8K-020,qwen3.8-max,GSM8K,1,1
+GSM8K-020,qwen4-max,GSM8K,0,1
+GSM8K-021,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-021,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-021,qwen3.8-27b,GSM8K,1,1
+GSM8K-021,qwen3.8-max,GSM8K,1,1
+GSM8K-021,qwen4-max,GSM8K,0,1
+GSM8K-022,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-022,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-022,qwen3.8-27b,GSM8K,1,1
+GSM8K-022,qwen3.8-max,GSM8K,1,1
+GSM8K-022,qwen4-max,GSM8K,1,1
+GSM8K-023,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-023,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-023,qwen3.8-27b,GSM8K,1,1
+GSM8K-023,qwen3.8-max,GSM8K,1,1
+GSM8K-023,qwen4-max,GSM8K,1,1
+GSM8K-024,deepseek-v4.1-flash,GSM8K,0,1
+GSM8K-024,mimo-v2.6-pro,GSM8K,0,1
+GSM8K-024,qwen3.8-27b,GSM8K,0,1
+GSM8K-024,qwen3.8-max,GSM8K,0,1
+GSM8K-024,qwen4-max,GSM8K,0,1
+GSM8K-025,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-025,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-025,qwen3.8-27b,GSM8K,1,1
+GSM8K-025,qwen3.8-max,GSM8K,1,1
+GSM8K-025,qwen4-max,GSM8K,0,1
+GSM8K-026,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-026,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-026,qwen3.8-27b,GSM8K,1,1
+GSM8K-026,qwen3.8-max,GSM8K,1,1
+GSM8K-026,qwen4-max,GSM8K,1,1
+GSM8K-027,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-027,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-027,qwen3.8-27b,GSM8K,1,1
+GSM8K-027,qwen3.8-max,GSM8K,1,1
+GSM8K-027,qwen4-max,GSM8K,1,1
+GSM8K-028,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-028,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-028,qwen3.8-27b,GSM8K,1,1
+GSM8K-028,qwen3.8-max,GSM8K,1,1
+GSM8K-028,qwen4-max,GSM8K,1,1
+GSM8K-029,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-029,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-029,qwen3.8-27b,GSM8K,1,1
+GSM8K-029,qwen3.8-max,GSM8K,1,1
+GSM8K-029,qwen4-max,GSM8K,1,1
+GSM8K-030,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-030,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-030,qwen3.8-27b,GSM8K,1,1
+GSM8K-030,qwen3.8-max,GSM8K,1,1
+GSM8K-030,qwen4-max,GSM8K,1,1
+GSM8K-031,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-031,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-031,qwen3.8-27b,GSM8K,1,1
+GSM8K-031,qwen3.8-max,GSM8K,1,1
+GSM8K-031,qwen4-max,GSM8K,1,1
+GSM8K-032,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-032,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-032,qwen3.8-27b,GSM8K,1,1
+GSM8K-032,qwen3.8-max,GSM8K,1,1
+GSM8K-032,qwen4-max,GSM8K,1,1
+GSM8K-033,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-033,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-033,qwen3.8-27b,GSM8K,1,1
+GSM8K-033,qwen3.8-max,GSM8K,1,1
+GSM8K-033,qwen4-max,GSM8K,1,1
+GSM8K-034,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-034,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-034,qwen3.8-27b,GSM8K,1,1
+GSM8K-034,qwen3.8-max,GSM8K,1,1
+GSM8K-034,qwen4-max,GSM8K,1,1
+GSM8K-035,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-035,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-035,qwen3.8-27b,GSM8K,1,1
+GSM8K-035,qwen3.8-max,GSM8K,1,1
+GSM8K-035,qwen4-max,GSM8K,1,1
+GSM8K-036,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-036,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-036,qwen3.8-27b,GSM8K,1,1
+GSM8K-036,qwen3.8-max,GSM8K,1,1
+GSM8K-036,qwen4-max,GSM8K,1,1
+GSM8K-037,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-037,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-037,qwen3.8-27b,GSM8K,1,1
+GSM8K-037,qwen3.8-max,GSM8K,1,1
+GSM8K-037,qwen4-max,GSM8K,1,1
+GSM8K-038,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-038,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-038,qwen3.8-27b,GSM8K,1,1
+GSM8K-038,qwen3.8-max,GSM8K,1,1
+GSM8K-038,qwen4-max,GSM8K,1,1
+GSM8K-039,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-039,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-039,qwen3.8-27b,GSM8K,1,1
+GSM8K-039,qwen3.8-max,GSM8K,1,1
+GSM8K-039,qwen4-max,GSM8K,1,1
+GSM8K-040,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-040,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-040,qwen3.8-27b,GSM8K,1,1
+GSM8K-040,qwen3.8-max,GSM8K,1,1
+GSM8K-040,qwen4-max,GSM8K,1,1
+GSM8K-041,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-041,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-041,qwen3.8-27b,GSM8K,1,1
+GSM8K-041,qwen3.8-max,GSM8K,1,1
+GSM8K-041,qwen4-max,GSM8K,1,1
+GSM8K-042,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-042,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-042,qwen3.8-27b,GSM8K,1,1
+GSM8K-042,qwen3.8-max,GSM8K,1,1
+GSM8K-042,qwen4-max,GSM8K,1,1
+GSM8K-043,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-043,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-043,qwen3.8-27b,GSM8K,1,1
+GSM8K-043,qwen3.8-max,GSM8K,1,1
+GSM8K-043,qwen4-max,GSM8K,1,1
+GSM8K-044,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-044,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-044,qwen3.8-27b,GSM8K,1,1
+GSM8K-044,qwen3.8-max,GSM8K,1,1
+GSM8K-044,qwen4-max,GSM8K,1,1
+GSM8K-045,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-045,mimo-v2.6-pro,GSM8K,0,1
+GSM8K-045,qwen3.8-27b,GSM8K,1,1
+GSM8K-045,qwen3.8-max,GSM8K,1,1
+GSM8K-045,qwen4-max,GSM8K,1,1
+GSM8K-046,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-046,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-046,qwen3.8-27b,GSM8K,0,1
+GSM8K-046,qwen3.8-max,GSM8K,1,1
+GSM8K-046,qwen4-max,GSM8K,1,1
+GSM8K-047,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-047,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-047,qwen3.8-27b,GSM8K,1,1
+GSM8K-047,qwen3.8-max,GSM8K,1,1
+GSM8K-047,qwen4-max,GSM8K,1,1
+GSM8K-048,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-048,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-048,qwen3.8-27b,GSM8K,1,1
+GSM8K-048,qwen3.8-max,GSM8K,1,1
+GSM8K-048,qwen4-max,GSM8K,1,1
+GSM8K-049,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-049,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-049,qwen3.8-27b,GSM8K,0,1
+GSM8K-049,qwen3.8-max,GSM8K,1,1
+GSM8K-049,qwen4-max,GSM8K,1,1
+GSM8K-050,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-050,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-050,qwen3.8-27b,GSM8K,1,1
+GSM8K-050,qwen3.8-max,GSM8K,1,1
+GSM8K-050,qwen4-max,GSM8K,1,1
+GSM8K-051,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-051,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-051,qwen3.8-27b,GSM8K,1,1
+GSM8K-051,qwen3.8-max,GSM8K,1,1
+GSM8K-051,qwen4-max,GSM8K,1,1
+GSM8K-052,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-052,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-052,qwen3.8-27b,GSM8K,1,1
+GSM8K-052,qwen3.8-max,GSM8K,1,1
+GSM8K-052,qwen4-max,GSM8K,1,1
+GSM8K-053,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-053,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-053,qwen3.8-27b,GSM8K,1,1
+GSM8K-053,qwen3.8-max,GSM8K,1,1
+GSM8K-053,qwen4-max,GSM8K,1,1
+GSM8K-054,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-054,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-054,qwen3.8-27b,GSM8K,1,1
+GSM8K-054,qwen3.8-max,GSM8K,1,1
+GSM8K-054,qwen4-max,GSM8K,0,1
+GSM8K-055,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-055,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-055,qwen3.8-27b,GSM8K,1,1
+GSM8K-055,qwen3.8-max,GSM8K,1,1
+GSM8K-055,qwen4-max,GSM8K,1,1
+GSM8K-056,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-056,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-056,qwen3.8-27b,GSM8K,1,1
+GSM8K-056,qwen3.8-max,GSM8K,1,1
+GSM8K-056,qwen4-max,GSM8K,1,1
+GSM8K-057,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-057,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-057,qwen3.8-27b,GSM8K,1,1
+GSM8K-057,qwen3.8-max,GSM8K,1,1
+GSM8K-057,qwen4-max,GSM8K,1,1
+GSM8K-058,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-058,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-058,qwen3.8-27b,GSM8K,1,1
+GSM8K-058,qwen3.8-max,GSM8K,1,1
+GSM8K-058,qwen4-max,GSM8K,1,1
+GSM8K-059,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-059,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-059,qwen3.8-27b,GSM8K,1,1
+GSM8K-059,qwen3.8-max,GSM8K,1,1
+GSM8K-059,qwen4-max,GSM8K,1,1
+GSM8K-060,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-060,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-060,qwen3.8-27b,GSM8K,1,1
+GSM8K-060,qwen3.8-max,GSM8K,1,1
+GSM8K-060,qwen4-max,GSM8K,1,1
+GSM8K-061,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-061,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-061,qwen3.8-27b,GSM8K,1,1
+GSM8K-061,qwen3.8-max,GSM8K,1,1
+GSM8K-061,qwen4-max,GSM8K,1,1
+GSM8K-062,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-062,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-062,qwen3.8-27b,GSM8K,1,1
+GSM8K-062,qwen3.8-max,GSM8K,1,1
+GSM8K-062,qwen4-max,GSM8K,1,1
+GSM8K-063,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-063,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-063,qwen3.8-27b,GSM8K,1,1
+GSM8K-063,qwen3.8-max,GSM8K,1,1
+GSM8K-063,qwen4-max,GSM8K,1,1
+GSM8K-064,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-064,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-064,qwen3.8-27b,GSM8K,1,1
+GSM8K-064,qwen3.8-max,GSM8K,1,1
+GSM8K-064,qwen4-max,GSM8K,1,1
+GSM8K-065,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-065,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-065,qwen3.8-27b,GSM8K,1,1
+GSM8K-065,qwen3.8-max,GSM8K,1,1
+GSM8K-065,qwen4-max,GSM8K,1,1
+GSM8K-066,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-066,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-066,qwen3.8-27b,GSM8K,1,1
+GSM8K-066,qwen3.8-max,GSM8K,1,1
+GSM8K-066,qwen4-max,GSM8K,1,1
+GSM8K-067,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-067,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-067,qwen3.8-27b,GSM8K,1,1
+GSM8K-067,qwen3.8-max,GSM8K,1,1
+GSM8K-067,qwen4-max,GSM8K,1,1
+GSM8K-068,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-068,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-068,qwen3.8-27b,GSM8K,1,1
+GSM8K-068,qwen3.8-max,GSM8K,1,1
+GSM8K-068,qwen4-max,GSM8K,1,1
+GSM8K-069,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-069,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-069,qwen3.8-27b,GSM8K,1,1
+GSM8K-069,qwen3.8-max,GSM8K,1,1
+GSM8K-069,qwen4-max,GSM8K,0,1
+GSM8K-070,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-070,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-070,qwen3.8-27b,GSM8K,1,1
+GSM8K-070,qwen3.8-max,GSM8K,1,1
+GSM8K-070,qwen4-max,GSM8K,1,1
+GSM8K-071,deepseek-v4.1-flash,GSM8K,0,1
+GSM8K-071,mimo-v2.6-pro,GSM8K,0,1
+GSM8K-071,qwen3.8-27b,GSM8K,0,1
+GSM8K-071,qwen3.8-max,GSM8K,0,1
+GSM8K-071,qwen4-max,GSM8K,0,1
+GSM8K-072,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-072,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-072,qwen3.8-27b,GSM8K,1,1
+GSM8K-072,qwen3.8-max,GSM8K,1,1
+GSM8K-072,qwen4-max,GSM8K,1,1
+GSM8K-073,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-073,mimo-v2.6-pro,GSM8K,0,1
+GSM8K-073,qwen3.8-27b,GSM8K,1,1
+GSM8K-073,qwen3.8-max,GSM8K,1,1
+GSM8K-073,qwen4-max,GSM8K,1,1
+GSM8K-074,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-074,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-074,qwen3.8-27b,GSM8K,1,1
+GSM8K-074,qwen3.8-max,GSM8K,1,1
+GSM8K-074,qwen4-max,GSM8K,1,1
+GSM8K-075,deepseek-v4.1-flash,GSM8K,1,1
+GSM8K-075,mimo-v2.6-pro,GSM8K,1,1
+GSM8K-075,qwen3.8-27b,GSM8K,1,1
+GSM8K-075,qwen3.8-max,GSM8K,1,1
+GSM8K-075,qwen4-max,GSM8K,1,1
+IFEVAL-0024,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-0024,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-0024,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-0024,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-0024,qwen4-max,IFEval (strict),1,1
+IFEVAL-0127,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-0127,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-0127,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-0127,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-0127,qwen4-max,IFEval (strict),1,1
+IFEVAL-0136,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-0136,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-0136,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-0136,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-0136,qwen4-max,IFEval (strict),1,1
+IFEVAL-0201,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-0201,mimo-v2.6-pro,IFEval (strict),0,1
+IFEVAL-0201,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-0201,qwen3.8-max,IFEval (strict),0,1
+IFEVAL-0201,qwen4-max,IFEval (strict),0,1
+IFEVAL-0202,deepseek-v4.1-flash,IFEval (strict),0,1
+IFEVAL-0202,mimo-v2.6-pro,IFEval (strict),0,1
+IFEVAL-0202,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-0202,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-0202,qwen4-max,IFEval (strict),1,1
+IFEVAL-0219,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-0219,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-0219,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-0219,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-0219,qwen4-max,IFEval (strict),1,1
+IFEVAL-0247,deepseek-v4.1-flash,IFEval (strict),0,1
+IFEVAL-0247,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-0247,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-0247,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-0247,qwen4-max,IFEval (strict),0,1
+IFEVAL-0279,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-0279,mimo-v2.6-pro,IFEval (strict),0,1
+IFEVAL-0279,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-0279,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-0279,qwen4-max,IFEval (strict),1,1
+IFEVAL-0374,deepseek-v4.1-flash,IFEval (strict),0,1
+IFEVAL-0374,mimo-v2.6-pro,IFEval (strict),0,1
+IFEVAL-0374,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-0374,qwen3.8-max,IFEval (strict),0,1
+IFEVAL-0374,qwen4-max,IFEval (strict),0,1
+IFEVAL-1005,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1005,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1005,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1005,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1005,qwen4-max,IFEval (strict),1,1
+IFEVAL-1094,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1094,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1094,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1094,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1094,qwen4-max,IFEval (strict),1,1
+IFEVAL-1122,deepseek-v4.1-flash,IFEval (strict),0,1
+IFEVAL-1122,mimo-v2.6-pro,IFEval (strict),0,1
+IFEVAL-1122,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-1122,qwen3.8-max,IFEval (strict),0,1
+IFEVAL-1122,qwen4-max,IFEval (strict),1,1
+IFEVAL-1127,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1127,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1127,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1127,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1127,qwen4-max,IFEval (strict),1,1
+IFEVAL-1139,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1139,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1139,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1139,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1139,qwen4-max,IFEval (strict),1,1
+IFEVAL-1148,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1148,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1148,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1148,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1148,qwen4-max,IFEval (strict),1,1
+IFEVAL-1187,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1187,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1187,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1187,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1187,qwen4-max,IFEval (strict),1,1
+IFEVAL-1219,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1219,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1219,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1219,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1219,qwen4-max,IFEval (strict),1,1
+IFEVAL-1246,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1246,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1246,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1246,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1246,qwen4-max,IFEval (strict),1,1
+IFEVAL-1251,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1251,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1251,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1251,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1251,qwen4-max,IFEval (strict),1,1
+IFEVAL-1268,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1268,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1268,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1268,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1268,qwen4-max,IFEval (strict),1,1
+IFEVAL-1325,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1325,mimo-v2.6-pro,IFEval (strict),0,1
+IFEVAL-1325,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-1325,qwen3.8-max,IFEval (strict),0,1
+IFEVAL-1325,qwen4-max,IFEval (strict),1,1
+IFEVAL-1375,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1375,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1375,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1375,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1375,qwen4-max,IFEval (strict),1,1
+IFEVAL-1381,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1381,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1381,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1381,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1381,qwen4-max,IFEval (strict),1,1
+IFEVAL-1466,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1466,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1466,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-1466,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1466,qwen4-max,IFEval (strict),1,1
+IFEVAL-1481,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1481,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1481,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1481,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1481,qwen4-max,IFEval (strict),0,1
+IFEVAL-1566,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1566,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1566,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1566,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1566,qwen4-max,IFEval (strict),1,1
+IFEVAL-1592,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1592,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1592,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1592,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1592,qwen4-max,IFEval (strict),1,1
+IFEVAL-1653,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1653,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1653,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1653,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1653,qwen4-max,IFEval (strict),1,1
+IFEVAL-1667,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1667,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1667,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1667,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1667,qwen4-max,IFEval (strict),1,1
+IFEVAL-1779,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1779,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1779,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1779,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1779,qwen4-max,IFEval (strict),1,1
+IFEVAL-1802,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1802,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1802,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1802,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1802,qwen4-max,IFEval (strict),0,1
+IFEVAL-1834,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1834,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1834,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1834,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1834,qwen4-max,IFEval (strict),1,1
+IFEVAL-1843,deepseek-v4.1-flash,IFEval (strict),0,1
+IFEVAL-1843,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1843,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-1843,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1843,qwen4-max,IFEval (strict),1,1
+IFEVAL-1927,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1927,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1927,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1927,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1927,qwen4-max,IFEval (strict),1,1
+IFEVAL-1954,deepseek-v4.1-flash,IFEval (strict),0,1
+IFEVAL-1954,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1954,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-1954,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1954,qwen4-max,IFEval (strict),0,1
+IFEVAL-1964,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1964,mimo-v2.6-pro,IFEval (strict),0,1
+IFEVAL-1964,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1964,qwen3.8-max,IFEval (strict),0,1
+IFEVAL-1964,qwen4-max,IFEval (strict),1,1
+IFEVAL-1999,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-1999,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-1999,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-1999,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-1999,qwen4-max,IFEval (strict),1,1
+IFEVAL-2010,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2010,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2010,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2010,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2010,qwen4-max,IFEval (strict),1,1
+IFEVAL-2035,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2035,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2035,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2035,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2035,qwen4-max,IFEval (strict),1,1
+IFEVAL-2107,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2107,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2107,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2107,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2107,qwen4-max,IFEval (strict),1,1
+IFEVAL-2142,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2142,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2142,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-2142,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2142,qwen4-max,IFEval (strict),1,1
+IFEVAL-2207,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2207,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2207,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2207,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2207,qwen4-max,IFEval (strict),0,1
+IFEVAL-2229,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2229,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2229,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2229,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2229,qwen4-max,IFEval (strict),1,1
+IFEVAL-2323,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2323,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2323,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2323,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2323,qwen4-max,IFEval (strict),1,1
+IFEVAL-2357,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2357,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2357,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2357,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2357,qwen4-max,IFEval (strict),1,1
+IFEVAL-2381,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2381,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2381,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2381,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2381,qwen4-max,IFEval (strict),1,1
+IFEVAL-2395,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2395,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2395,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2395,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2395,qwen4-max,IFEval (strict),1,1
+IFEVAL-2436,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2436,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2436,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2436,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2436,qwen4-max,IFEval (strict),1,1
+IFEVAL-2596,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2596,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2596,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2596,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2596,qwen4-max,IFEval (strict),1,1
+IFEVAL-2653,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2653,mimo-v2.6-pro,IFEval (strict),0,1
+IFEVAL-2653,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2653,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2653,qwen4-max,IFEval (strict),0,1
+IFEVAL-2683,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2683,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2683,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2683,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2683,qwen4-max,IFEval (strict),1,1
+IFEVAL-2691,deepseek-v4.1-flash,IFEval (strict),0,1
+IFEVAL-2691,mimo-v2.6-pro,IFEval (strict),0,1
+IFEVAL-2691,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2691,qwen3.8-max,IFEval (strict),0,1
+IFEVAL-2691,qwen4-max,IFEval (strict),0,1
+IFEVAL-2857,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2857,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2857,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2857,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2857,qwen4-max,IFEval (strict),0,1
+IFEVAL-2880,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2880,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2880,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-2880,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2880,qwen4-max,IFEval (strict),1,1
+IFEVAL-2887,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2887,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2887,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-2887,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2887,qwen4-max,IFEval (strict),1,1
+IFEVAL-2908,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2908,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2908,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-2908,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2908,qwen4-max,IFEval (strict),1,1
+IFEVAL-2969,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-2969,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-2969,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-2969,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-2969,qwen4-max,IFEval (strict),1,1
+IFEVAL-3035,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3035,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3035,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3035,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3035,qwen4-max,IFEval (strict),0,1
+IFEVAL-3048,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3048,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3048,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-3048,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3048,qwen4-max,IFEval (strict),1,1
+IFEVAL-3223,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3223,mimo-v2.6-pro,IFEval (strict),0,1
+IFEVAL-3223,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-3223,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3223,qwen4-max,IFEval (strict),1,1
+IFEVAL-3305,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3305,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3305,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3305,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3305,qwen4-max,IFEval (strict),1,1
+IFEVAL-3311,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3311,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3311,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3311,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3311,qwen4-max,IFEval (strict),1,1
+IFEVAL-3327,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3327,mimo-v2.6-pro,IFEval (strict),0,1
+IFEVAL-3327,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3327,qwen3.8-max,IFEval (strict),0,1
+IFEVAL-3327,qwen4-max,IFEval (strict),1,1
+IFEVAL-3350,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3350,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3350,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3350,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3350,qwen4-max,IFEval (strict),1,1
+IFEVAL-3351,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3351,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3351,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3351,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3351,qwen4-max,IFEval (strict),1,1
+IFEVAL-3453,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3453,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3453,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3453,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3453,qwen4-max,IFEval (strict),1,1
+IFEVAL-3557,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3557,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3557,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3557,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3557,qwen4-max,IFEval (strict),1,1
+IFEVAL-3563,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3563,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3563,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3563,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3563,qwen4-max,IFEval (strict),1,1
+IFEVAL-3567,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3567,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3567,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3567,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3567,qwen4-max,IFEval (strict),1,1
+IFEVAL-3608,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3608,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3608,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3608,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3608,qwen4-max,IFEval (strict),1,1
+IFEVAL-3617,deepseek-v4.1-flash,IFEval (strict),0,1
+IFEVAL-3617,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3617,qwen3.8-27b,IFEval (strict),0,1
+IFEVAL-3617,qwen3.8-max,IFEval (strict),0,1
+IFEVAL-3617,qwen4-max,IFEval (strict),0,1
+IFEVAL-3631,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3631,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3631,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3631,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3631,qwen4-max,IFEval (strict),1,1
+IFEVAL-3682,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3682,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3682,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3682,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3682,qwen4-max,IFEval (strict),1,1
+IFEVAL-3691,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3691,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3691,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3691,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3691,qwen4-max,IFEval (strict),1,1
+IFEVAL-3703,deepseek-v4.1-flash,IFEval (strict),1,1
+IFEVAL-3703,mimo-v2.6-pro,IFEval (strict),1,1
+IFEVAL-3703,qwen3.8-27b,IFEval (strict),1,1
+IFEVAL-3703,qwen3.8-max,IFEval (strict),1,1
+IFEVAL-3703,qwen4-max,IFEval (strict),1,1
+MMLUP-00214,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-00214,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-00214,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-00214,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-00214,qwen4-max,MMLU-Pro,1,1
+MMLUP-00218,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-00218,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-00218,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-00218,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-00218,qwen4-max,MMLU-Pro,1,1
+MMLUP-00308,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-00308,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-00308,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-00308,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-00308,qwen4-max,MMLU-Pro,1,1
+MMLUP-00396,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-00396,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-00396,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-00396,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-00396,qwen4-max,MMLU-Pro,1,1
+MMLUP-00474,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-00474,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-00474,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-00474,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-00474,qwen4-max,MMLU-Pro,1,1
+MMLUP-00623,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-00623,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-00623,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-00623,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-00623,qwen4-max,MMLU-Pro,1,1
+MMLUP-00811,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-00811,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-00811,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-00811,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-00811,qwen4-max,MMLU-Pro,1,1
+MMLUP-00948,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-00948,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-00948,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-00948,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-00948,qwen4-max,MMLU-Pro,1,1
+MMLUP-00957,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-00957,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-00957,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-00957,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-00957,qwen4-max,MMLU-Pro,1,1
+MMLUP-01042,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-01042,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-01042,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-01042,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-01042,qwen4-max,MMLU-Pro,0,1
+MMLUP-01283,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-01283,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-01283,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-01283,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-01283,qwen4-max,MMLU-Pro,1,1
+MMLUP-01482,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-01482,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-01482,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-01482,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-01482,qwen4-max,MMLU-Pro,1,1
+MMLUP-01488,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-01488,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-01488,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-01488,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-01488,qwen4-max,MMLU-Pro,1,1
+MMLUP-01608,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-01608,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-01608,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-01608,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-01608,qwen4-max,MMLU-Pro,0,1
+MMLUP-01681,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-01681,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-01681,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-01681,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-01681,qwen4-max,MMLU-Pro,1,1
+MMLUP-01980,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-01980,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-01980,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-01980,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-01980,qwen4-max,MMLU-Pro,1,1
+MMLUP-02016,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-02016,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-02016,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-02016,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-02016,qwen4-max,MMLU-Pro,1,1
+MMLUP-02117,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-02117,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-02117,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-02117,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-02117,qwen4-max,MMLU-Pro,1,1
+MMLUP-02217,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-02217,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-02217,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-02217,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-02217,qwen4-max,MMLU-Pro,1,1
+MMLUP-02291,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-02291,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-02291,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-02291,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-02291,qwen4-max,MMLU-Pro,1,1
+MMLUP-02453,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-02453,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-02453,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-02453,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-02453,qwen4-max,MMLU-Pro,1,1
+MMLUP-02692,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-02692,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-02692,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-02692,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-02692,qwen4-max,MMLU-Pro,1,1
+MMLUP-02758,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-02758,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-02758,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-02758,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-02758,qwen4-max,MMLU-Pro,0,1
+MMLUP-02911,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-02911,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-02911,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-02911,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-02911,qwen4-max,MMLU-Pro,1,1
+MMLUP-03016,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-03016,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-03016,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-03016,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-03016,qwen4-max,MMLU-Pro,1,1
+MMLUP-03018,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-03018,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-03018,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-03018,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-03018,qwen4-max,MMLU-Pro,1,1
+MMLUP-03288,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-03288,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-03288,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-03288,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-03288,qwen4-max,MMLU-Pro,1,1
+MMLUP-03425,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-03425,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-03425,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-03425,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-03425,qwen4-max,MMLU-Pro,1,1
+MMLUP-03519,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-03519,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-03519,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-03519,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-03519,qwen4-max,MMLU-Pro,1,1
+MMLUP-03732,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-03732,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-03732,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-03732,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-03732,qwen4-max,MMLU-Pro,1,1
+MMLUP-03882,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-03882,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-03882,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-03882,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-03882,qwen4-max,MMLU-Pro,1,1
+MMLUP-04086,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-04086,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-04086,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-04086,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-04086,qwen4-max,MMLU-Pro,1,1
+MMLUP-04157,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-04157,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-04157,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-04157,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-04157,qwen4-max,MMLU-Pro,1,1
+MMLUP-04180,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-04180,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-04180,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-04180,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-04180,qwen4-max,MMLU-Pro,1,1
+MMLUP-04258,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-04258,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-04258,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-04258,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-04258,qwen4-max,MMLU-Pro,1,1
+MMLUP-04296,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-04296,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-04296,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-04296,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-04296,qwen4-max,MMLU-Pro,1,1
+MMLUP-04487,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-04487,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-04487,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-04487,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-04487,qwen4-max,MMLU-Pro,1,1
+MMLUP-04578,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-04578,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-04578,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-04578,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-04578,qwen4-max,MMLU-Pro,1,1
+MMLUP-04783,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-04783,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-04783,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-04783,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-04783,qwen4-max,MMLU-Pro,1,1
+MMLUP-04913,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-04913,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-04913,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-04913,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-04913,qwen4-max,MMLU-Pro,1,1
+MMLUP-04916,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-04916,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-04916,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-04916,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-04916,qwen4-max,MMLU-Pro,1,1
+MMLUP-05060,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-05060,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-05060,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-05060,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-05060,qwen4-max,MMLU-Pro,1,1
+MMLUP-05111,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-05111,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-05111,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-05111,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-05111,qwen4-max,MMLU-Pro,0,1
+MMLUP-05182,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-05182,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-05182,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-05182,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-05182,qwen4-max,MMLU-Pro,1,1
+MMLUP-05456,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-05456,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-05456,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-05456,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-05456,qwen4-max,MMLU-Pro,1,1
+MMLUP-05465,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-05465,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-05465,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-05465,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-05465,qwen4-max,MMLU-Pro,0,1
+MMLUP-05590,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-05590,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-05590,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-05590,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-05590,qwen4-max,MMLU-Pro,1,1
+MMLUP-05637,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-05637,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-05637,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-05637,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-05637,qwen4-max,MMLU-Pro,1,1
+MMLUP-05784,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-05784,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-05784,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-05784,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-05784,qwen4-max,MMLU-Pro,1,1
+MMLUP-06115,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-06115,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-06115,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-06115,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-06115,qwen4-max,MMLU-Pro,1,1
+MMLUP-06139,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-06139,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-06139,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-06139,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-06139,qwen4-max,MMLU-Pro,1,1
+MMLUP-06201,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-06201,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-06201,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-06201,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-06201,qwen4-max,MMLU-Pro,0,1
+MMLUP-06535,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-06535,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-06535,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-06535,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-06535,qwen4-max,MMLU-Pro,1,1
+MMLUP-06699,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-06699,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-06699,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-06699,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-06699,qwen4-max,MMLU-Pro,1,1
+MMLUP-06712,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-06712,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-06712,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-06712,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-06712,qwen4-max,MMLU-Pro,1,1
+MMLUP-06714,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-06714,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-06714,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-06714,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-06714,qwen4-max,MMLU-Pro,1,1
+MMLUP-06859,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-06859,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-06859,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-06859,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-06859,qwen4-max,MMLU-Pro,1,1
+MMLUP-06924,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-06924,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-06924,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-06924,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-06924,qwen4-max,MMLU-Pro,1,1
+MMLUP-07161,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-07161,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-07161,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-07161,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-07161,qwen4-max,MMLU-Pro,1,1
+MMLUP-07192,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-07192,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-07192,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-07192,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-07192,qwen4-max,MMLU-Pro,1,1
+MMLUP-07228,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-07228,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-07228,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-07228,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-07228,qwen4-max,MMLU-Pro,1,1
+MMLUP-07274,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-07274,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-07274,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-07274,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-07274,qwen4-max,MMLU-Pro,1,1
+MMLUP-07489,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-07489,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-07489,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-07489,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-07489,qwen4-max,MMLU-Pro,1,1
+MMLUP-07733,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-07733,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-07733,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-07733,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-07733,qwen4-max,MMLU-Pro,1,1
+MMLUP-07740,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-07740,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-07740,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-07740,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-07740,qwen4-max,MMLU-Pro,1,1
+MMLUP-07766,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-07766,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-07766,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-07766,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-07766,qwen4-max,MMLU-Pro,1,1
+MMLUP-07871,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-07871,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-07871,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-07871,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-07871,qwen4-max,MMLU-Pro,1,1
+MMLUP-07941,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-07941,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-07941,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-07941,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-07941,qwen4-max,MMLU-Pro,1,1
+MMLUP-08117,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-08117,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-08117,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-08117,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-08117,qwen4-max,MMLU-Pro,1,1
+MMLUP-08368,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-08368,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-08368,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-08368,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-08368,qwen4-max,MMLU-Pro,1,1
+MMLUP-08565,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-08565,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-08565,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-08565,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-08565,qwen4-max,MMLU-Pro,1,1
+MMLUP-08693,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-08693,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-08693,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-08693,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-08693,qwen4-max,MMLU-Pro,1,1
+MMLUP-08944,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-08944,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-08944,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-08944,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-08944,qwen4-max,MMLU-Pro,0,1
+MMLUP-09016,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-09016,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-09016,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-09016,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-09016,qwen4-max,MMLU-Pro,1,1
+MMLUP-09132,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-09132,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-09132,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-09132,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-09132,qwen4-max,MMLU-Pro,1,1
+MMLUP-09542,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-09542,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-09542,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-09542,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-09542,qwen4-max,MMLU-Pro,0,1
+MMLUP-09556,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-09556,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-09556,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-09556,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-09556,qwen4-max,MMLU-Pro,1,1
+MMLUP-09572,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-09572,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-09572,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-09572,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-09572,qwen4-max,MMLU-Pro,1,1
+MMLUP-09613,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-09613,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-09613,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-09613,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-09613,qwen4-max,MMLU-Pro,1,1
+MMLUP-09701,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-09701,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-09701,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-09701,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-09701,qwen4-max,MMLU-Pro,1,1
+MMLUP-09773,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-09773,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-09773,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-09773,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-09773,qwen4-max,MMLU-Pro,1,1
+MMLUP-09848,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-09848,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-09848,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-09848,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-09848,qwen4-max,MMLU-Pro,1,1
+MMLUP-09923,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-09923,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-09923,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-09923,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-09923,qwen4-max,MMLU-Pro,1,1
+MMLUP-09944,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-09944,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-09944,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-09944,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-09944,qwen4-max,MMLU-Pro,1,1
+MMLUP-10295,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-10295,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-10295,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-10295,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-10295,qwen4-max,MMLU-Pro,1,1
+MMLUP-10502,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-10502,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-10502,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-10502,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-10502,qwen4-max,MMLU-Pro,1,1
+MMLUP-10690,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-10690,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-10690,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-10690,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-10690,qwen4-max,MMLU-Pro,1,1
+MMLUP-10737,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-10737,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-10737,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-10737,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-10737,qwen4-max,MMLU-Pro,1,1
+MMLUP-10802,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-10802,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-10802,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-10802,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-10802,qwen4-max,MMLU-Pro,1,1
+MMLUP-10981,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-10981,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-10981,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-10981,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-10981,qwen4-max,MMLU-Pro,1,1
+MMLUP-11089,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-11089,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-11089,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-11089,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-11089,qwen4-max,MMLU-Pro,0,1
+MMLUP-11095,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-11095,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-11095,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-11095,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-11095,qwen4-max,MMLU-Pro,1,1
+MMLUP-11389,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-11389,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-11389,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-11389,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-11389,qwen4-max,MMLU-Pro,1,1
+MMLUP-11459,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-11459,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-11459,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-11459,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-11459,qwen4-max,MMLU-Pro,1,1
+MMLUP-11566,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-11566,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-11566,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-11566,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-11566,qwen4-max,MMLU-Pro,1,1
+MMLUP-11696,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-11696,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-11696,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-11696,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-11696,qwen4-max,MMLU-Pro,1,1
+MMLUP-11726,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-11726,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-11726,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-11726,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-11726,qwen4-max,MMLU-Pro,1,1
+MMLUP-11882,deepseek-v4.1-flash,MMLU-Pro,0,1
+MMLUP-11882,mimo-v2.6-pro,MMLU-Pro,0,1
+MMLUP-11882,qwen3.8-27b,MMLU-Pro,0,1
+MMLUP-11882,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-11882,qwen4-max,MMLU-Pro,0,1
+MMLUP-12057,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-12057,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-12057,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-12057,qwen3.8-max,MMLU-Pro,0,1
+MMLUP-12057,qwen4-max,MMLU-Pro,1,1
+MMLUP-12169,deepseek-v4.1-flash,MMLU-Pro,1,1
+MMLUP-12169,mimo-v2.6-pro,MMLU-Pro,1,1
+MMLUP-12169,qwen3.8-27b,MMLU-Pro,1,1
+MMLUP-12169,qwen3.8-max,MMLU-Pro,1,1
+MMLUP-12169,qwen4-max,MMLU-Pro,1,1

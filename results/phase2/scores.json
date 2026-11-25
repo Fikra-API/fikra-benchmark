@@ -1,0 +1,165 @@
+{
+ "run": "fikra-benchmark-phase2-2026-11-25",
+ "summary": {
+  "deepseek-v4.1-flash": {
+   "BFCL": {
+    "correct": 44,
+    "n": 50,
+    "pct": 88.0
+   },
+   "GPQA-Diamond": {
+    "correct": 40,
+    "n": 50,
+    "pct": 80.0
+   },
+   "GSM8K": {
+    "correct": 72,
+    "n": 75,
+    "pct": 96.0
+   },
+   "IFEval (loose)": {
+    "correct": 68,
+    "n": 75,
+    "pct": 90.67
+   },
+   "IFEval (strict)": {
+    "correct": 67,
+    "n": 75,
+    "pct": 89.33
+   },
+   "MMLU-Pro": {
+    "correct": 86,
+    "n": 100,
+    "pct": 86.0
+   }
+  },
+  "mimo-v2.6-pro": {
+   "BFCL": {
+    "correct": 42,
+    "n": 50,
+    "pct": 84.0
+   },
+   "GPQA-Diamond": {
+    "correct": 34,
+    "n": 50,
+    "pct": 68.0
+   },
+   "GSM8K": {
+    "correct": 69,
+    "n": 75,
+    "pct": 92.0
+   },
+   "IFEval (loose)": {
+    "correct": 67,
+    "n": 75,
+    "pct": 89.33
+   },
+   "IFEval (strict)": {
+    "correct": 64,
+    "n": 75,
+    "pct": 85.33
+   },
+   "MMLU-Pro": {
+    "correct": 81,
+    "n": 100,
+    "pct": 81.0
+   }
+  },
+  "qwen3.8-27b": {
+   "BFCL": {
+    "correct": 37,
+    "n": 50,
+    "pct": 74.0
+   },
+   "GPQA-Diamond": {
+    "correct": 31,
+    "n": 50,
+    "pct": 62.0
+   },
+   "GSM8K": {
+    "correct": 69,
+    "n": 75,
+    "pct": 92.0
+   },
+   "IFEval (loose)": {
+    "correct": 62,
+    "n": 75,
+    "pct": 82.67
+   },
+   "IFEval (strict)": {
+    "correct": 61,
+    "n": 75,
+    "pct": 81.33
+   },
+   "MMLU-Pro": {
+    "correct": 82,
+    "n": 100,
+    "pct": 82.0
+   }
+  },
+  "qwen3.8-max": {
+   "BFCL": {
+    "correct": 42,
+    "n": 50,
+    "pct": 84.0
+   },
+   "GPQA-Diamond": {
+    "correct": 37,
+    "n": 50,
+    "pct": 74.0
+   },
+   "GSM8K": {
+    "correct": 70,
+    "n": 75,
+    "pct": 93.33
+   },
+   "IFEval (loose)": {
+    "correct": 68,
+    "n": 75,
+    "pct": 90.67
+   },
+   "IFEval (strict)": {
+    "correct": 67,
+    "n": 75,
+    "pct": 89.33
+   },
+   "MMLU-Pro": {
+    "correct": 80,
+    "n": 100,
+    "pct": 80.0
+   }
+  },
+  "qwen4-max": {
+   "BFCL": {
+    "correct": 45,
+    "n": 50,
+    "pct": 90.0
+   },
+   "GPQA-Diamond": {
+    "correct": 45,
+    "n": 50,
+    "pct": 90.0
+   },
+   "GSM8K": {
+    "correct": 65,
+    "n": 75,
+    "pct": 86.67
+   },
+   "IFEval (loose)": {
+    "correct": 64,
+    "n": 75,
+    "pct": 85.33
+   },
+   "IFEval (strict)": {
+    "correct": 63,
+    "n": 75,
+    "pct": 84.0
+   },
+   "MMLU-Pro": {
+    "correct": 90,
+    "n": 100,
+    "pct": 90.0
+   }
+  }
+ }
+}

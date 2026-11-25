@@ -1,0 +1,9 @@
+{
+ "_note": "Published scores for the same models, shown next to Fikra's measured scores. Only numbers with a linkable source; empty means none found. Vendor runs often use different settings (e.g. temperature 1.0, long reasoning budgets) than Phase 2 (temperature 0, 32k output cap). Checked 2026-11-25.",
+ "deepseek-v4.1-flash": {"GPQA-Diamond": {"value": 90.9, "by": "DeepSeek (vendor-reported, republished by NVIDIA NIM)", "settings": "Pass@1, reasoning_effort=100, temperature 1.0, top_p 0.95", "source": "https://docs.api.nvidia.com/nim/reference/nvidia-deepseek-v4_1-flash"}},
+ "qwen3.8-27b": {"GPQA-Diamond": {"value": 89.2, "by": "Qwen (vendor-reported, model card)", "settings": "vendor default", "source": "https://www.qubrid.com/blog/qwen38-27b-benchmarks-official-and-independent-results"}},
+ "qwen3.8-max": {"GPQA-Diamond": {"value": 92.6, "by": "Alibaba (vendor-reported)", "settings": "vendor default", "source": "https://emergent.sh/learn/qwen-3-8-benchmarks"},
+                 "MMLU-Pro": {"value": 88.6, "by": "Vals AI (independent)", "settings": "Vals AI harness", "source": "https://www.vals.ai/models/alibaba_qwen3.8-max"}},
+ "qwen4-max": {},
+ "mimo-v2.6-pro": {}
+}

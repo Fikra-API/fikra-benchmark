@@ -37,6 +37,9 @@ TASKS = WORK / "benchmark_500.jsonl"
 # ---------- IFEval (official) ----------
 sys.path.insert(0, str(HERE / "vendor" / "google-research"))
 from instruction_following_eval import evaluation_lib  # noqa: E402
+from langdetect import DetectorFactory  # noqa: E402
+
+DetectorFactory.seed = 0  # langdetect is random unless seeded; keeps IFEval scores reproducible
 
 # ---------- BFCL AST checker (pinned), loaded without its heavy package ----------
 _AST = WORK / "bfcl_repo/berkeley-function-call-leaderboard/bfcl_eval/eval_checker/ast_eval/ast_checker.py"
@@ -88,6 +91,10 @@ def last_number(text):
 
 def score_ifeval(task, text):
     md = json.loads(task["metadata_json"])
+    # Google's checker fills a missing optional argument with random.* values;
+    # seed per task so every run gives the same verdict for the same answer.
+    import random
+    random.seed(int(md.get("key", 0) or 0))
     kwargs = [{k: v for k, v in (kw or {}).items() if v is not None} for kw in md["kwargs"]]
     inp = evaluation_lib.InputExample(key=md.get("key", 0), instruction_id_list=md["instruction_id_list"],
                                       prompt=task["prompt"], kwargs=kwargs)
@@ -101,9 +108,13 @@ def score_bfcl(task, row):
     md = json.loads(task["metadata_json"])
     try:
         calls = json.loads(row.get("tool_calls_json") or "[]")
+        # Official BFCL handling for OpenAI-format models: names were sent with
+        # "." -> "_" on re-runs; map them back to the dotted originals.
+        original = {f["name"].replace(".", "_"): f["name"] for f in md["function"]}
         output = []
         for c in calls:
-            fn = c.get("function") or {}
+            fn = dict(c.get("function") or {})
+            fn["name"] = original.get(fn.get("name"), fn.get("name"))
             args = fn.get("arguments")
             args = json.loads(args) if isinstance(args, str) and args.strip() else (args or {})
             output.append({fn.get("name"): args})
