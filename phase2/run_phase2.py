@@ -62,6 +62,26 @@ def patch_root(src: str) -> str:
     return src.replace('ROOT = Path("/content/fikra_benchmark_phase1")', f'ROOT = Path({str(WORK)!r})')
 
 
+def patch_build(src: str) -> str:
+    """The notebook's build cell has trailing top-level code that assumes the
+    fresh-build path. When the frozen suite already exists, run only the
+    recovery branch (hash check + load) so nothing is rebuilt or overwritten."""
+    if (WORK / "benchmark_500.jsonl").exists() and (WORK / "frozen_manifest.json").exists():
+        head, sep, _ = src.partition("\nelse:\n")
+        assert sep, "cell 5 layout changed"
+        return head
+    return src
+
+
+def patch_runner(src: str) -> str:
+    """Notebook bug: timing fields are only set when the stream returns a usage
+    chunk, so a response without usage raised UnboundLocalError and was
+    recorded as a failure. Initialise them with the token counters."""
+    old = "            total_tokens = None\n\n            if usage:"
+    assert old in src, "cell 9 layout changed"
+    return src.replace(old, "            total_tokens = None\n            queue_time_s = None\n            prompt_time_s = None\n            completion_time_s = None\n            api_total_time_s = None\n\n            if usage:", 1)
+
+
 def patch_run(src: str) -> str:
     src = re.sub(r'MAX_WORKERS = \d+', f"MAX_WORKERS = {WORKERS}", src, count=1)
     src = re.sub(r'TARGET_RPM = \d+', f"TARGET_RPM = {RPM}", src, count=1)
@@ -69,8 +89,8 @@ def patch_run(src: str) -> str:
 
 
 ns: dict = {"__name__": "__phase2__"}
-plan = [(2, patch_root), (3, patch_config), (4, None), (5, None), (6, None), (7, None),
-        (8, None), (9, None), (10, None), (11, None), (12, patch_run), (13, None), (14, None)]
+plan = [(2, patch_root), (3, patch_config), (4, None), (5, patch_build), (6, None), (7, None),
+        (8, None), (9, patch_runner), (10, None), (11, None), (12, patch_run), (13, None), (14, None)]
 if os.getenv("PHASE2_BUILD_ONLY"):
     plan = [p for p in plan if p[0] <= 6]
 for idx, patch in plan:
